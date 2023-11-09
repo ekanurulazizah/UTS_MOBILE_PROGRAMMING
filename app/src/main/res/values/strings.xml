@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Miss Univers Indonesia 2023</string>
+    <string name="top10_finalis">Nama Miss Univers</string>
+    <string name="description">Miss Universe Indonesia atau MUID adalah kontes kecantikan tahunan di Indonesia yang diselenggarakan sejak 2023 untuk memilih pemenang yang akan mewakili Indonesia pada perhelatan kontes kecantikan Miss Universe.</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Eka Nurul Azizah</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>ekaazizah@std.unissula.ac.id</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/saya</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>alyazahira</item>
+        <item>angelayovita</item>
+        <item>fabienne</item>
+        <item>grace</item>
+        <item>natashakeniraras</item>
+        <item>natashalilian</item>
+        <item>putuchelsea</item>
+        <item>shania</item>
+        <item>stella</item>
+        <item>vinaanggi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alya Zahira adalah salah satu finalis Miss Universe Indonesia 2023 yang berasal dari DKI Jakarta.
+            Tidak hanya memiliki paras anggun, wanita berumur 22 tahun ini ternyata memiliki ketertarikan dan hobi pada olahraga basket.
+            Alya banyak terlibat di berbagai kegiatan basket, mulai menjadi pelatih untuk kelompok umur binaan sampai mencicipi liga basket di luar Indonesia, seperti U16F Swiss. </item>
+
+        <item>Angela Yovita Lilo, perempuan kelahiran Kota Batam, 28 Agustus 1998 yang terpilih menjadi salah satu finalis Miss Universe 2023 mewakili Provinsi Kepulauan Riau.
+              Angela aktif di dunia entertainment sejak usia 11 tahun untuk menjadi seorang model. Setelah beranjak dewasa, dia mulai tertarik di dunia musik dan mengenyam pendidikan di Australian Institute of Music jurusan Music Theatre.
+            Selain pandai bermain musik, Angela juga menguasai tiga Bahasa, yakni Indonesia, Inggris, dan Korea.</item>
+
+        <item>Fabienne Nicole Groeneveld atau biasa disapa Nicole, lahir di Spojkenisse, Belanda, pada 27 Desember 1999.
+                Nicole merupakan lulusan dari beberapa universitas ternama, salah satunya adalah Universitas Pelita Harapan, Bachelor in International Business Management 2019, University of New South Wales, Master in Business Administration, dan Australian Graduate School of Management (AGSM) 2021.
+                Di tahun 2018, Nicole pertama kali mengikuti kontes pageant pertama di Miss Global 2018. Nicole mewakili Indonesia dan melanjutkan kontes selanjutnya di Miss Global 2018 di Filipina.
+                Nicole hanya masuk 20 besar, namun dia berhasil membawa pulang penghargaan “Best in Evening Gown” dan “Miss Photogenic”.
+                Tidak hanya cantik dan pintar, Nicole juga aktif di berbagai kegiatan sosial dan bergabung dengan “Surabaya Animal Care Community” untuk mengkampanyekan “Save the Animals”.</item>
+
+        <item>Grace Bersyeba Martina Haba adalah seorang perempuan berdarah Aboru, Maluku, yang lahir pada 18 Maret 1998.
+                Sedari kecil, Grace mengenyam pendidikan di Surabaya dan Jakarta. Meski beberapa kali pindah-pindah kota, kecintaannya akan Maluku masih tetap melekat di hatinya.
+                Wanita lulusan Widya Mandala Catholic University ini dikenal sangat peduli dengan pendidikan di Aboru. Bahkan, dia turut berpartisipasi dalam kegiatan Buku Voor Aboru.
+                Sebelum menjadi partisipan Miss Universe Indonesia 2023, Grace adalah seorang karyawan swasta di salah satu media ternama di Indonesia.
+                Selain aktif bekerja, Grace juga aktif dalam kegiatan rohani untuk pelayanan sekolah Minggu di Gereja Protestan Indonesia Bagian Barat (BGIP) sejak tahun 2016.</item>
+
+        <item>Natasha Keniraras atau biasa dikenal dengan Natkerina adalah influencer ternama yang menjadi finalis Miss Universe Indonesia 2023.
+                Sebelum ikut sebagai peserta Miss Universe Indonesia, Natkerina sempat mengikuti ajang kontes Miss Indonesia 2018.
+                Natkenira dikenal sebagai publik figur dan CEO of Sexy Javanese dengan khas aksen medoknya yang jenaka.
+                Sebagai orang Jawa Timur, Natkenira mengaku aksen khasnya itu menjadi persona dan kelebihan dirinya yang patut untuk dibanggakan.</item>
+
+        <item>Natasha Lilian seorang finalis Miss Universe Indonesia asal Bali ini berusia 23 tahun. Statusnya saat ini diketahui sebagai mahasiswa aktif University of the Arts London (UAL), dengan jurusan Cosmetic Science.
+                Selain dunia kosmetik, Natasha juga memiliki ketertarikan di dunia tattoo. Bahkan, sekarang dia sudah mengantongi sertifikasi London Tattoo Academy untuk sebagai seorang Tattoo Specialist.</item>
+
+        <item>Putu Chelsea Ivana Maida adalah seorang wanita asal Bali yang merupakan mahasiswa angkatan 2022 Program Studi Hubungan Internasional FISIP Unud.
+                Chelsea merupakan pemenang dari Miss Universe Bali 2023 yang bersaing dengan 17 finalis remaja putri Bali lainnya.</item>
+
+        <item>Shania Binti Mahir Hamdun atau Shania adalah anak pertama dari empat bersaudara yang lahir pada 4 Agustus 1998 di Semarang, Jawa Tengah.
+                Shania merupakan alumnus SMP Negeri 8 Yogyakarta angkatan 2013 dan SMA Negeri 2 Yogyakarta angkatan 2016. Setelah lulus, dia melanjutkan studi program D3 jurusan Manajemen di Universitas Gadjah Mada.
+                Saat ini, dia tercatat sebagai mahasiswi Universitas Bina Nusantara jurusan Manajemen. Shania sudah lama dikenal oleh masyarakat setelah menjadi kontestan Indonesia’s Next Top Model S1 di NET. TV pada tahun 2020. Sekarang dia mencoba peruntungan di kontes Miss Universe 2023.</item>
+
+        <item>Stella Vidyasari adalah kontestan Miss Universe Indonesia 2023 yang mewakili Kepulauan Riau.
+                Stella merupakan alumni Sekolah Menengah Kejuruan (SMK) di Yos Sudarso, Batam dan Universitas Atma Jaya jurusan Bio Teknologi.
+                Sejak tahun 2013, Stella memulai karir modeling yang sangat disukai sejak lama. Dia baru terjun ke kontes kecantikan pada 2022 melalui ajang Miss Chinese Indonesia.
+                Sejak saat itu, Stella sadar bahwa kontes beauty pageant tidak lebih dari sekedar berpenampilan cantik, melainkan sosok wanita yang menjadi inspirasi dan memberi dampak yang positif bagi banyak orang.</item>
+
+        <item>Vina Anggi Sitorus merupakan runner up 1 dalam ajang kontes Miss Universe Indonesia 2023.
+                Dilansir dari berbagai media, Vina Anggi Sitorus lahir pada 26 April 1999 dan merupakan keturunan Batak Toba.
+                Sebelum mengikuti kontes Miss Universe Indonesia, Vina pernah ikut sebagai peserta Putri Tenun dan Songket Indonesia 2022.
+                Wanita berparas cantik dengan kulit eksotis pernah menempuh pendidikan tinggi di Universitas Presiden pada tahun 2016. Selain dikenal sebagai presenter dan content marketer ternama, Vina juga dikenal sebagai sosok yang peduli lingkungan.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alyazahira</item>
+        <item>@drawable/angelayovita</item>
+        <item>@drawable/fabienne</item>
+        <item>@drawable/grace</item>
+        <item>@drawable/natashakeniraras</item>
+        <item>@drawable/natashalilian</item>
+        <item>@drawable/putuchelsea</item>
+        <item>@drawable/shania</item>
+        <item>@drawable/stella</item>
+        <item>@drawable/vinaanggi</item>
+    </integer-array>
+</resources>
